@@ -1,0 +1,16 @@
+# Godot-specific ignores
+.import/
+export.cfg
+export.presets.cfg
+
+# Imported translations (automatically generated from CVS files)
+*.translations
+
+# Mono-specific ignores
+.mono/
+data_*/
+
+# Carpetas extras para ignorar (descomentar según necesidad)
+Builds/
+#Documentation/
+TemporalAssets/
